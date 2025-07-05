@@ -1,0 +1,296 @@
+"Country_or_Region","Remove"
+"Afghanistan",FALSE
+"Africa",TRUE
+"Albania",FALSE
+"Algeria",FALSE
+"American Samoa",TRUE
+"Andorra",FALSE
+"Angola",FALSE
+"Anguilla",TRUE
+"Antigua and Barbuda",FALSE
+"Argentina",FALSE
+"Armenia",FALSE
+"Aruba",TRUE
+"Asia",TRUE
+"Australia",FALSE
+"Australia/New Zealand",TRUE
+"Austria",FALSE
+"Azerbaijan",FALSE
+"Bahamas",FALSE
+"Bahrain",FALSE
+"Bangladesh",FALSE
+"Barbados",FALSE
+"Belarus",FALSE
+"Belgium",FALSE
+"Belize",FALSE
+"Benin",FALSE
+"Bermuda",TRUE
+"Bhutan",FALSE
+"Bolivia (Plurinational State of)",FALSE
+"Bonaire, Sint Eustatius and Saba",TRUE
+"Bosnia and Herzegovina",FALSE
+"Botswana",FALSE
+"Brazil",FALSE
+"British Virgin Islands",TRUE
+"Brunei Darussalam",FALSE
+"Bulgaria",FALSE
+"Burkina Faso",FALSE
+"Burundi",FALSE
+"Cabo Verde",FALSE
+"Cambodia",FALSE
+"Cameroon",FALSE
+"Canada",FALSE
+"Caribbean",TRUE
+"Cayman Islands",TRUE
+"Central African Republic",FALSE
+"Central America",TRUE
+"Central and Southern Asia",TRUE
+"Central Asia",TRUE
+"Chad",FALSE
+"Chile",FALSE
+"China",FALSE
+"China, Hong Kong SAR",TRUE
+"China, Macao SAR",TRUE
+"China, Taiwan Province of China",TRUE
+"Colombia",FALSE
+"Comoros",FALSE
+"Congo",FALSE
+"Cook Islands",TRUE
+"Costa Rica",FALSE
+"Côte d'Ivoire",FALSE
+"Croatia",FALSE
+"Cuba",FALSE
+"Curaçao",TRUE
+"Cyprus",FALSE
+"Czechia",FALSE
+"Dem. People's Republic of Korea",FALSE
+"Democratic Republic of the Congo",FALSE
+"Denmark",FALSE
+"Djibouti",FALSE
+"Dominica",FALSE
+"Dominican Republic",FALSE
+"Eastern Africa",TRUE
+"Eastern and South-Eastern Asia",TRUE
+"Eastern Asia",TRUE
+"Eastern Europe",TRUE
+"Ecuador",FALSE
+"Egypt",FALSE
+"El Salvador",FALSE
+"Equatorial Guinea",FALSE
+"Eritrea",FALSE
+"Estonia",FALSE
+"Eswatini",FALSE
+"Ethiopia",FALSE
+"Europe",TRUE
+"Europe and Northern America",TRUE
+"Europe, Northern America, Australia, and New Zealand",TRUE
+"Falkland Islands (Malvinas)",TRUE
+"Faroe Islands",TRUE
+"Fiji",FALSE
+"Finland",FALSE
+"France",FALSE
+"French Guiana",TRUE
+"French Polynesia",TRUE
+"Gabon",FALSE
+"Gambia",FALSE
+"Georgia",FALSE
+"Germany",FALSE
+"Ghana",FALSE
+"Gibraltar",TRUE
+"Greece",FALSE
+"Greenland",TRUE
+"Grenada",FALSE
+"Guadeloupe",TRUE
+"Guam",TRUE
+"Guatemala",FALSE
+"Guernsey",TRUE
+"Guinea",FALSE
+"Guinea-Bissau",FALSE
+"Guyana",FALSE
+"Haiti",FALSE
+"High-and-upper-middle-income countries",TRUE
+"High-income countries",TRUE
+"Holy See",TRUE
+"Honduras",FALSE
+"Hungary",FALSE
+"Iceland",FALSE
+"India",FALSE
+"Indonesia",FALSE
+"Iran (Islamic Republic of)",FALSE
+"Iraq",FALSE
+"Ireland",FALSE
+"Isle of Man",TRUE
+"Israel",FALSE
+"Italy",FALSE
+"Jamaica",FALSE
+"Japan",FALSE
+"Jersey",TRUE
+"Jordan",FALSE
+"Kazakhstan",FALSE
+"Kenya",FALSE
+"Kiribati",FALSE
+"Kosovo (under UNSC res. 1244)",TRUE
+"Kuwait",FALSE
+"Kyrgyzstan",FALSE
+"Land-locked Developing Countries (LLDC)",TRUE
+"Lao People's Democratic Republic",FALSE
+"Latin America and the Caribbean",TRUE
+"Latvia",FALSE
+"Least developed countries",TRUE
+"Lebanon",FALSE
+"Lesotho",FALSE
+"Less developed regions",TRUE
+"Less developed regions, excluding China",TRUE
+"Less developed regions, excluding least developed countries",TRUE
+"Liberia",FALSE
+"Libya",FALSE
+"Liechtenstein",FALSE
+"Lithuania",FALSE
+"LLDC: Africa",TRUE
+"LLDC: Asia",TRUE
+"LLDC: Europe",TRUE
+"LLDC: Latin America",TRUE
+"Low-and-Lower-middle-income countries",TRUE
+"Low-and-middle-income countries",TRUE
+"Low-income countries",TRUE
+"Lower-middle-income countries",TRUE
+"Luxembourg",FALSE
+"Madagascar",FALSE
+"Malawi",FALSE
+"Malaysia",FALSE
+"Maldives",FALSE
+"Mali",FALSE
+"Malta",FALSE
+"Marshall Islands",FALSE
+"Martinique",TRUE
+"Mauritania",FALSE
+"Mauritius",FALSE
+"Mayotte",TRUE
+"Melanesia",TRUE
+"Mexico",FALSE
+"Micronesia",TRUE
+"Micronesia (Fed. States of)",FALSE
+"Middle-income countries",TRUE
+"Middle Africa",TRUE
+"Monaco",FALSE
+"Mongolia",FALSE
+"Montenegro",FALSE
+"Montserrat",TRUE
+"More developed regions",TRUE
+"Morocco",FALSE
+"Mozambique",FALSE
+"Myanmar",FALSE
+"Namibia",FALSE
+"Nauru",FALSE
+"Nepal",FALSE
+"Netherlands",FALSE
+"New Caledonia",TRUE
+"New Zealand",FALSE
+"Nicaragua",FALSE
+"Niger",FALSE
+"Nigeria",FALSE
+"Niue",TRUE
+"No income group available",TRUE
+"North Macedonia",FALSE
+"Northern Africa",TRUE
+"Northern Africa and Western Asia",TRUE
+"Northern America",TRUE
+"Northern Europe",TRUE
+"Northern Mariana Islands",TRUE
+"Norway",FALSE
+"Oceania",TRUE
+"Oceania (excluding Australia and New Zealand)",TRUE
+"Oman",FALSE
+"Pakistan",FALSE
+"Palau",FALSE
+"Panama",FALSE
+"Papua New Guinea",FALSE
+"Paraguay",FALSE
+"Peru",FALSE
+"Philippines",FALSE
+"Poland",FALSE
+"Polynesia",TRUE
+"Portugal",FALSE
+"Puerto Rico",TRUE
+"Qatar",FALSE
+"Republic of Korea",FALSE
+"Republic of Moldova",FALSE
+"Réunion",TRUE
+"Romania",FALSE
+"Russian Federation",FALSE
+"Rwanda",FALSE
+"Saint Barthélemy",TRUE
+"Saint Helena",TRUE
+"Saint Kitts and Nevis",FALSE
+"Saint Lucia",FALSE
+"Saint Martin (French part)",TRUE
+"Saint Pierre and Miquelon",TRUE
+"Saint Vincent and the Grenadines",FALSE
+"Samoa",FALSE
+"San Marino",FALSE
+"Sao Tome and Principe",FALSE
+"Saudi Arabia",FALSE
+"Senegal",FALSE
+"Serbia",FALSE
+"Seychelles",FALSE
+"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",TRUE
+"SIDS Caribbean",TRUE
+"SIDS Pacific",TRUE
+"Sierra Leone",FALSE
+"Singapore",FALSE
+"Sint Maarten (Dutch part)",TRUE
+"Slovakia",FALSE
+"Slovenia",FALSE
+"Small Island Developing States (SIDS)",TRUE
+"Solomon Islands",FALSE
+"Somalia",FALSE
+"South-Eastern Asia",TRUE
+"South Africa",FALSE
+"South America",TRUE
+"South Sudan",FALSE
+"Southern Africa",TRUE
+"Southern Asia",TRUE
+"Southern Europe",TRUE
+"Spain",FALSE
+"Sri Lanka",FALSE
+"State of Palestine",TRUE
+"Sub-Saharan Africa",TRUE
+"Sudan",FALSE
+"Suriname",FALSE
+"Sweden",FALSE
+"Switzerland",FALSE
+"Syrian Arab Republic",FALSE
+"Tajikistan",FALSE
+"Thailand",FALSE
+"Timor-Leste",FALSE
+"Togo",FALSE
+"Tokelau",TRUE
+"Tonga",FALSE
+"Trinidad and Tobago",FALSE
+"Tunisia",FALSE
+"Türkiye",FALSE
+"Turkmenistan",FALSE
+"Turks and Caicos Islands",TRUE
+"Tuvalu",FALSE
+"Uganda",FALSE
+"Ukraine",FALSE
+"United Arab Emirates",FALSE
+"United Kingdom",FALSE
+"United Republic of Tanzania",FALSE
+"United States of America",FALSE
+"United States Virgin Islands",TRUE
+"Upper-middle-income countries",TRUE
+"Uruguay",FALSE
+"Uzbekistan",FALSE
+"Vanuatu",FALSE
+"Venezuela (Bolivarian Republic of)",FALSE
+"Viet Nam",FALSE
+"Wallis and Futuna Islands",TRUE
+"Western Africa",TRUE
+"Western Asia",TRUE
+"Western Europe",TRUE
+"Western Sahara",TRUE
+"World",TRUE
+"Yemen",FALSE
+"Zambia",FALSE
+"Zimbabwe",FALSE
